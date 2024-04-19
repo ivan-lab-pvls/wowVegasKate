@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34095971428",
+    "project_id": "vegas-83eb9",
+    "storage_bucket": "vegas-83eb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34095971428:android:d47a0d261baa6c8a7bf371",
+        "android_client_info": {
+          "package_name": "com.wowly.veg.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMiw0mHoHMFCZb7e9kBbHoF-ItGRw5omo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
