@@ -1,7 +1,7 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
-import 'package:vegas/app/main.dart';
+import 'package:vegas/main.dart';
 
 @RoutePage()
 class SupportScreen extends StatelessWidget {

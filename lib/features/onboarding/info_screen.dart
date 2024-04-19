@@ -2,7 +2,7 @@ import 'package:auto_route/auto_route.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:vegas/app/main.dart';
+import 'package:vegas/main.dart';
 import 'package:vegas/app/router/router.dart';
 import 'package:vegas/custom/button.dart';
 import 'package:vegas/custom/nav_bar_button.dart';

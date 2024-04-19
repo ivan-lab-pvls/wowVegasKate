@@ -1,5 +1,5 @@
 import 'package:bloc/bloc.dart';
-import 'package:vegas/app/main.dart';
+import 'package:vegas/main.dart';
 import 'package:vegas/features/home/models/place/place.dart';
 
 class PlaceListCubit extends Cubit<List<Place>> {

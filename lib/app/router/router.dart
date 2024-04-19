@@ -1,6 +1,6 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:vegas/app/main.dart';
+import 'package:vegas/main.dart';
 import 'package:vegas/features/home/models/place/place.dart';
 import 'package:vegas/features/new_place/congratulations_screen.dart';
 import 'package:vegas/features/home/view/home_screen.dart';

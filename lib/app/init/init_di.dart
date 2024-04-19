@@ -1,5 +1,5 @@
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:vegas/app/main.dart';
+import 'package:vegas/main.dart';
 
 Future<void> initDI() async {
   final sharedPreferences = await SharedPreferences.getInstance();
