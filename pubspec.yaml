@@ -13,7 +13,13 @@ dependencies:
   build_runner: ^2.4.9
   cupertino_icons: ^1.0.8
   firebase_core: ^2.27.0
+  flutter_local_notifications: ^9.8.0+1
+  overlay_support: ^2.1.0
+  firebase_messaging: ^14.2.2
+  app_tracking_transparency: ^2.0.4
   firebase_remote_config: ^4.3.17
+  url_launcher:
+  appsflyer_sdk: 
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.5

@@ -16,6 +16,6 @@ Future<void> initFirebase() async {
       'https://docs.google.com/document/d/1k2022E9FgDkBCIhk_GhhLy6ZfTQXP5cP8AkQOZCLn0I/edit?usp=sharing';
   termsOfUse =
       'https://docs.google.com/document/d/1bxtWZRRiZOziVAahSqD_6BrSxGd16yTwkiMZWau6XJc/edit?usp=sharing';
-  promotion = '';
+  promotion = remoteConfig.getString('promotion');
   support = 'https://forms.gle/EsxseT6buJsuuHrq7';
 }
