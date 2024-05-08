@@ -203,7 +203,7 @@ class MainApp extends StatelessWidget {
                 ),
               );
             } else {
-              if (snapshot.data == true && promotion != '') {
+              if (snapshot.data == true && datioq != '') {
                 return MaterialApp(
                   debugShowCheckedModeBanner: false,
                   home: PreviewFoxa(
